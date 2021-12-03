@@ -1,2 +1,3 @@
 insert text line1
 insert text line2
+insert line3
